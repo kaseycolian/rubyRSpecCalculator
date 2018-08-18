@@ -1,0 +1,7 @@
+#Ignore folders
+.bundle/
+features/
+
+#Ignore files
+Gemfile
+Gemfile.lock
