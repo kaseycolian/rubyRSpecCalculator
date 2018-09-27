@@ -3,4 +3,4 @@
 
 First attempt at RSpec.
 
-Created using tutorial available on https://semaphoreci.com.
+Created with tutorial available on https://semaphoreci.com.
